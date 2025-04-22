@@ -63,23 +63,36 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://rayongwit.ac.th/rw/images/RW1.png" width="100" height="100" alt="Rayongwittayakom School"/>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://i.ibb.co/TLsRsTk/rayongwit.png" width="120" height="120" alt="Rayongwittayakom School"/>
         <br />
-        <b>Rayongwittayakom School</b>
+        <b>โรงเรียนระยองวิทยาคม</b>
       </td>
-      <td align="center" width="33%">
-        <img src="https://mwit.ac.th/wp-content/uploads/2018/09/cropped-favicon-1.png" width="100" height="100" alt="Mahidol Wittayanusorn School"/>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://i.ibb.co/5v8kS7C/mwit.png" width="120" height="120" alt="Mahidol Wittayanusorn School"/>
         <br />
-        <b>Mahidol Wittayanusorn School</b>
+        <b>โรงเรียนมหิดลวิทยานุสรณ์</b>
       </td>
-      <td align="center" width="33%">
-        <img src="https://www.chula.ac.th/wp-content/uploads/2017/09/CU-logo.png" width="100" height="100" alt="Chulalongkorn University"/>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://i.ibb.co/9nGxDzk/chula.png" width="120" height="120" alt="Chulalongkorn University"/>
         <br />
-        <b>Chulalongkorn University</b>
+        <b>จุฬาลงกรณ์มหาวิทยาลัย</b>
       </td>
     </tr>
   </table>
+</div>
+
+<!-- Alternative version with badges -->
+<div align="center">
+  <a href="https://rayongwit.ac.th" target="_blank">
+    <img src="https://img.shields.io/badge/Rayongwittayakom-School-1A5276?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR4nI2STUrEQBCFv0oyK8HLiCsXXkJw4w946s5ZuDK6Gmc0MqvIOOCiR7B7Ue9QSNm/UFAUb/H69avqVhXClnVwOO+JH1UFeCSEMEt0xWKBquI/SHpJrXXz+XxSXVNDRGIBYNiI6jAzNptNBJ5Op9FDOecoE9ACmNm1cy4WoqqxHEKgqqjrmoNiNjnAOL5QDV9cFruwWCRMHfm+1xnj9I2fP8/2yBqVOPKRNuupvqOJl0wuL9jkGeWqZPz+SXlb4qxTvCbxLU2zIr+5p3/p6ZQRIrERTcM4zXqaJqOYrfDZNF4ItfWOoX/m6vCKTrECMZdqXbMdvXIx9jw9lOSLEwC+AZPWlxbV5PipAAAAAElFTkSuQmCC" />
+  </a>
+  <a href="https://mwit.ac.th" target="_blank">
+    <img src="https://img.shields.io/badge/Mahidol_Wittayanusorn-School-5D6D7E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABEklEQVR4nI2SQUrDQBiFv0w0RXoCb+JOcwFBXQgieA4Vd27sVk9QLxBX3qYbwZV7aQsxycQUJoVCeYv3//O/9/5/RnAIJa7VaL8FYDweZwAmpSmjWCOYAMVRgWZAZVlyd3vP5dUF7bGDyj5b+gUopaDbrQGIMebw4hhj6pGc+4W04ZWGx6lms+uFmjbxSLUHG8GbxO0t9qPC2sU5DhvZMGPGkJOhIuBHptTbVOBCcLrFLpxZjSXrNQAeOaJ2/pySGVPLMf28eLXI7FMIXjhh8+GonUPFhupmgWaVbmMYOQWDRPvkQzFcQqdfN/0Lf5PNp4AwQjIpKM6nWJWm37PjRJeEwTuYdlOG1c8NruJFojtrvQFYdJMcGj3FhQAAAABJRU5ErkJggg" />
+  </a>
+  <a href="https://www.chula.ac.th" target="_blank">
+    <img src="https://img.shields.io/badge/Chulalongkorn-University-F1C40F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVR4nH2SvUoDQRSFvxvdwlewtbCwEIutjdY2dpba2FsENS8gBNEXsAj+PAE+hPgCgthZCEJEsImIFtOImY0ze12YZGMTvM3hfnPnnJk7V0g5aePTpssLEA+Hg8kCwQmwuLK2iRQQsYsC8cKBEWABLDDYi7BNIGkdpHf3jOomSMEV94TBKUJOMrUFwHPpVkMkL8SbcPVbOLKLClGD/L7CqX9SWs6iNQR2fXxl0+n6jLVPd9DiJHqB5JFALnOVz8Ov+9iypdNq4XkeJyYHzVHKDzGcUZxTiMRHoL6ckJ7c20rBsjwAg7QoSrYCmrxZKLVCMWbKA6eLUKL6q9ZZYvdWI0GJXEwgPk6J3LIiPzHa9VCVe5zSHQODMeaUY83g/o/FHQ+pTY1eJyD2+rRf35i6CWlvLLKmDn8BQsKVY9KO3xMAAAAASUVORK5CYII=" />
+  </a>
 </div>
 
 ## 📈 Complete Activity (Public & Private)
