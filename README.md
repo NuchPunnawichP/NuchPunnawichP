@@ -64,17 +64,17 @@
   <table>
     <tr>
       <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://i.ibb.co/TLsRsTk/rayongwit.png" width="120" height="120" alt="Rayongwittayakom School"/>
+        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0926.png" width="120" height="120" alt="Rayongwittayakom School"/>
         <br />
         <b>โรงเรียนระยองวิทยาคม</b>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://i.ibb.co/5v8kS7C/mwit.png" width="120" height="120" alt="Mahidol Wittayanusorn School"/>
+        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0927.png" width="120" height="120" alt="Mahidol Wittayanusorn School"/>
         <br />
         <b>โรงเรียนมหิดลวิทยานุสรณ์</b>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://i.ibb.co/9nGxDzk/chula.png" width="120" height="120" alt="Chulalongkorn University"/>
+        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0928.png" width="120" height="120" alt="Chulalongkorn University"/>
         <br />
         <b>จุฬาลงกรณ์มหาวิทยาลัย</b>
       </td>
