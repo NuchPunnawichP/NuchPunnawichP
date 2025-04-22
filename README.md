@@ -51,20 +51,35 @@
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=NuchPunnawichP&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
-## 🔥 Most Used Languages
+## 🔥 Most Used Languages & Skills
 
 <div align="center">
   <!-- Skills icons -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nodejs,bootstrap,matlab&theme=dark" alt="Skills" />
 </div>
 
-<!-- Language chart donut -->
+## 🎓 Education
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NuchPunnawichP&skills=JavaScript,CSS,Python,HTML,Java&width=820&bg=0D1117&textColor=C9D1D9&titleColor=58A6FF&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NuchPunnawichP&skills=JavaScript,CSS,Python,HTML,Java&count_private=true" />
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NuchPunnawichP&skills=JavaScript,CSS,Python,HTML,Java&width=820&bg=0D1117&textColor=C9D1D9&titleColor=58A6FF&count_private=true" alt="Languages Donut Chart" />
-  </picture>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://upload.wikimedia.org/wikipedia/th/thumb/2/29/Rayongwittayakom_Logo.png/200px-Rayongwittayakom_Logo.png" width="100" alt="Rayongwittayakom School"/>
+        <br />
+        <b>Rayongwittayakom School</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://upload.wikimedia.org/wikipedia/th/thumb/3/38/MWIT_Logo.svg/200px-MWIT_Logo.svg.png" width="100" alt="Mahidol Wittayanusorn School"/>
+        <br />
+        <b>Mahidol Wittayanusorn School</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://upload.wikimedia.org/wikipedia/th/thumb/a/a7/Chulalongkorn_University_Intattat.svg/200px-Chulalongkorn_University_Intattat.svg.png" width="100" alt="Chulalongkorn University"/>
+        <br />
+        <b>Chulalongkorn University</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📈 Complete Activity (Public & Private)
