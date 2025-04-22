@@ -64,7 +64,7 @@
   <table>
     <tr>
       <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0926.png" width="120" height="120" alt="Rayongwittayakom School"/>
+        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0929.png" width="120" height="120" alt="Rayongwittayakom School"/>
         <br />
         <b>โรงเรียนระยองวิทยาคม</b>
       </td>
