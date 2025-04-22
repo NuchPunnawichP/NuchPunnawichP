@@ -64,17 +64,17 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://images.app.goo.gl/wUPKt2MoS1K9fDuE6" width="100" alt="Rayongwittayakom School"/>
+        <img src="https://rayongwit.ac.th/rw/images/RW1.png" width="100" height="100" alt="Rayongwittayakom School"/>
         <br />
         <b>Rayongwittayakom School</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://upload.wikimedia.org/wikipedia/th/thumb/3/38/MWIT_Logo.svg/200px-MWIT_Logo.svg.png" width="100" alt="Mahidol Wittayanusorn School"/>
+        <img src="https://mwit.ac.th/wp-content/uploads/2018/09/cropped-favicon-1.png" width="100" height="100" alt="Mahidol Wittayanusorn School"/>
         <br />
         <b>Mahidol Wittayanusorn School</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://upload.wikimedia.org/wikipedia/th/thumb/a/a7/Chulalongkorn_University_Intattat.svg/200px-Chulalongkorn_University_Intattat.svg.png" width="100" alt="Chulalongkorn University"/>
+        <img src="https://www.chula.ac.th/wp-content/uploads/2017/09/CU-logo.png" width="100" height="100" alt="Chulalongkorn University"/>
         <br />
         <b>Chulalongkorn University</b>
       </td>
