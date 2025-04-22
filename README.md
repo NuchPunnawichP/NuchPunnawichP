@@ -64,7 +64,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://upload.wikimedia.org/wikipedia/th/thumb/2/29/Rayongwittayakom_Logo.png/200px-Rayongwittayakom_Logo.png" width="100" alt="Rayongwittayakom School"/>
+        <img src="https://images.app.goo.gl/wUPKt2MoS1K9fDuE6" width="100" alt="Rayongwittayakom School"/>
         <br />
         <b>Rayongwittayakom School</b>
       </td>
