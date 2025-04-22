@@ -1,6 +1,6 @@
 # NuchPunnawichP
 
-## 👨‍💻 Developer & Student
+## 🐵 Mechanical Engineer 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NuchPunnawichP&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
