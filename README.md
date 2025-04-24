@@ -66,17 +66,17 @@
       <td align="center" width="33%" style="padding: 20px;">
         <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0929.png" width="120" height="120" alt="Rayongwittayakom School"/>
         <br />
-        <b>โรงเรียนระยองวิทยาคม</b>
+        <b>Rayongwittayakom School</b>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
         <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0927.png" width="120" height="120" alt="Mahidol Wittayanusorn School"/>
         <br />
-        <b>โรงเรียนมหิดลวิทยานุสรณ์</b>
+        <b>Mahidol Wittayanusorn School</b>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
         <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0928.png" width="120" height="120" alt="Chulalongkorn University"/>
         <br />
-        <b>จุฬาลงกรณ์มหาวิทยาลัย</b>
+        <b>Chulalongkorn University</b>
       </td>
     </tr>
   </table>
