@@ -1,6 +1,4 @@
-# NuchPunnawichP
-
-# LIVERPOOL FC - CHAMPIONS! 🏆
+# # LIVERPOOL FC - CHAMPIONS! 🏆
 
 <div align="center">
   
