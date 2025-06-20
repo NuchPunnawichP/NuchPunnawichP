@@ -1,7 +1,7 @@
 # # Nuch Punnawich
 # 👋 About Me
 
-🎓 **3rd Year Engineering Student** at Chulalongkorn University  
+🎓 *Junior Year Engineering Student** at Chulalongkorn University  
 🔬 **Research Intern** at Machine Intelligence and Novel sensor Technology (MINT) Group  
 📍 Korea Advanced Institute of Science and Technology (KAIST)  
 👨‍🏫 **Principal Investigator:** Professor Inkyu Park
