@@ -1,12 +1,11 @@
 # # Nuch Punnawich
+## 🐵 Mechanical Engineer 
 # 👋 About Me
 
 🎓 *Junior Year Engineering Student** at Chulalongkorn University  
 🔬 **Research Intern** at Machine Intelligence and Novel sensor Technology (MINT) Group  
 📍 Korea Advanced Institute of Science and Technology (KAIST)  
 👨‍🏫 **Principal Investigator:** Professor Inkyu Park
-
-## 🐵 Mechanical Engineer 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NuchPunnawichP&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
