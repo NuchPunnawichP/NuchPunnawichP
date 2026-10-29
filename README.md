@@ -1,117 +1,102 @@
-# # Nuch Punnawich
-## 🐵 Mechanical Engineer 
-# 👋 About Me
+# Hi, I'm Punnawich (Mateen) 👋
 
-🎓 *Senior Year Engineering Student** at Chulalongkorn University  
-🔬 **Research Intern** at Machine Intelligence and Novel sensor Technology (MINT) Group  
-📍 Korea Advanced Institute of Science and Technology (KAIST)  
-👨‍🏫 **Principal Investigator:** Professor Inkyu Park
+### Mechanical Engineer · M.Eng. Student in Cyber-Physical Systems
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuchPunnawichP&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+I am **Punnawich Pongsriassawin**, a Mechanical Engineering graduate and a master's student in **Cyber-Physical Systems at Chulalongkorn University**, Thailand.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuchPunnawichP&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
-</div>
+I work across mechanical design, sensors, embedded systems, and engineering software. I enjoy taking an idea from simulation and prototyping to experiments and data analysis, with a focus on building useful systems.
 
-## ⭐ My GitHub Stats
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/punnawich-pongsriassawin-620426209/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Nuch.Punnawich.P@gmail.com)
+![Location](https://img.shields.io/badge/Based_in-Bangkok%2C_Thailand-555?style=flat-square)
 
-<table>
-  <tr>
-    <td align="center" style="padding: 0; width: 50%;">
-      <img src="https://img.shields.io/github/stars/NuchPunnawichP?style=for-the-badge&color=58a6ff&labelColor=1e1e2e&logo=starship&logoColor=C9CBFF&include_all_commits=true" />
-    </td>
-    <td align="center" style="padding: 0; width: 50%;">
-      <img src="https://img.shields.io/github/followers/NuchPunnawichP?style=for-the-badge&color=58a6ff&labelColor=1e1e2e&logo=github&logoColor=C9CBFF" />
-    </td>
-  </tr>
-</table>
+## 🔬 What I'm Working On
 
-<table>
-  <tr>
-    <td align="center" style="padding: 0; width: 50%;">
-      <img src="https://img.shields.io/badge/Total%20Commits-462+-58a6ff?style=for-the-badge&labelColor=1e1e2e&logo=gitbook&logoColor=C9CBFF" />
-    </td>
-    <td align="center" style="padding: 0; width: 50%;">
-      <img src="https://img.shields.io/badge/Total%20PRs-14+-58a6ff?style=for-the-badge&labelColor=1e1e2e&logo=gitpod&logoColor=C9CBFF" />
-    </td>
-  </tr>
-</table>
+- **Photonic pressure sensing:** Developing a mushroom-inspired PDMS sensing concept and planning experiments to study how deformation changes the optical response.
+- **Embedded systems:** Working with Raspberry Pi, Yocto Linux, and ESP32-S2 boards to connect hardware, communication, and data collection.
+- **Engineering software:** Building Python tools for signal analysis, experimental data, and equipment monitoring.
+- **Teaching:** Supporting engineering and ROS2 courses as a teaching assistant at Chulalongkorn University.
+- **Upcoming research:** Preparing for research collaboration at **NEOL, Korea University**, with **Prof. Seokwoo Jeon** in 2027.
 
-<table>
-  <tr>
-    <td align="center" style="padding: 0; width: 50%;">
-      <img src="https://img.shields.io/badge/Total%20Issues-8+-58a6ff?style=for-the-badge&labelColor=1e1e2e&logo=gitea&logoColor=C9CBFF" />
-    </td>
-    <td align="center" style="padding: 0; width: 50%;">
-      <img src="https://img.shields.io/badge/Contributed%20to-10+-58a6ff?style=for-the-badge&labelColor=1e1e2e&logo=adguard&logoColor=C9CBFF" />
-    </td>
-  </tr>
-</table>
+My research interests include **soft sensors, photonic sensing, MEMS, robotics, and intelligent cyber-physical systems**.
 
-## 📊 Performance Grade
+## 🛠️ Technical Toolkit
 
-<div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=NuchPunnawichP&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
+| Area | Tools and experience |
+| --- | --- |
+| Programming and data | Python, C/C++, MATLAB, NumPy, Pandas, scikit-learn, Excel |
+| Embedded systems | STM32, Arduino, ESP32-S2, Raspberry Pi, Yocto Linux, PCB prototyping, hardware debugging |
+| Design and simulation | Fusion 360, COMSOL Multiphysics, ANSYS, design of experiments |
+| Fabrication | SLS, FDM and resin 3D printing, mini-CNC machining, mold design, mechanical assembly |
+| Testing and maintenance | Signal analysis, equipment inspection, troubleshooting, preventive maintenance, experimental validation |
 
-## 🔥 Most Used Languages & Skills
+## 🚀 Selected Projects
 
-<div align="center">
-  <!-- Skills icons -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nodejs,bootstrap,matlab&theme=dark" alt="Skills" />
-</div>
+### [Acoustic Emission Analyzer — SCGC / REPCO](https://github.com/NuchPunnawichP/REPCO_Mechatronics)
 
-## 🎓 Education
+Developed a Python application to support future equipment monitoring and maintenance decisions. It converts raw sensor data into signal plots, RMS and peak values, acoustic emission counts, adjustable thresholds, and diagnostic summaries. Packaged for **Windows and macOS**.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0929.png" width="120" height="120" alt="Rayongwittayakom School"/>
-        <br />
-        <b>Rayongwittayakom School</b>
-      </td>
-      <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0927.png" width="120" height="120" alt="Mahidol Wittayanusorn School"/>
-        <br />
-        <b>Mahidol Wittayanusorn School</b>
-      </td>
-      <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0928.png" width="120" height="120" alt="Chulalongkorn University"/>
-        <br />
-        <b>Chulalongkorn University</b>
-      </td>
-    </tr>
-  </table>
-</div>
+### [Advanced Embedded Systems — CU 2026/1](https://github.com/NuchPunnawichP/ADV-Embedded-CU2026-1)
 
-<!-- Alternative version with badges -->
-<div align="center">
-  <a href="https://rayongwit.ac.th" target="_blank">
-    <img src="https://img.shields.io/badge/Rayongwittayakom-School-1A5276?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR4nI2STUrEQBCFv0oyK8HLiCsXXkJw4w946s5ZuDK6Gmc0MqvIOOCiR7B7Ue9QSNm/UFAUb/H69avqVhXClnVwOO+JH1UFeCSEMEt0xWKBquI/SHpJrXXz+XxSXVNDRGIBYNiI6jAzNptNBJ5Op9FDOecoE9ACmNm1cy4WoqqxHEKgqqjrmoNiNjnAOL5QDV9cFruwWCRMHfm+1xnj9I2fP8/2yBqVOPKRNuupvqOJl0wuL9jkGeWqZPz+SXlb4qxTvCbxLU2zIr+5p3/p6ZQRIrERTcM4zXqaJqOYrfDZNF4ItfWOoX/m6vCKTrECMZdqXbMdvXIx9jw9lOSLEwC+AZPWlxbV5PipAAAAAElFTkSuQmCC" />
-  </a>
-  <a href="https://mwit.ac.th" target="_blank">
-    <img src="https://img.shields.io/badge/Mahidol_Wittayanusorn-School-5D6D7E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABEklEQVR4nI2SQUrDQBiFv0w0RXoCb+JOcwFBXQgieA4Vd27sVk9QLxBX3qYbwZV7aQsxycQUJoVCeYv3//O/9/5/RnAIJa7VaL8FYDweZwAmpSmjWCOYAMVRgWZAZVlyd3vP5dUF7bGDyj5b+gUopaDbrQGIMebw4hhj6pGc+4W04ZWGx6lms+uFmjbxSLUHG8GbxO0t9qPC2sU5DhvZMGPGkJOhIuBHptTbVOBCcLrFLpxZjSXrNQAeOaJ2/pySGVPLMf28eLXI7FMIXjhh8+GonUPFhupmgWaVbmMYOQWDRPvkQzFcQqdfN/0Lf5PNp4AwQjIpKM6nWJWm37PjRJeEwTuYdlOG1c8NruJFojtrvQFYdJMcGj3FhQAAAABJRU5ErkJggg" />
-  </a>
-  <a href="https://www.chula.ac.th" target="_blank">
-    <img src="https://img.shields.io/badge/Chulalongkorn-University-F1C40F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVR4nH2SvUoDQRSFvxvdwlewtbCwEIutjdY2dpba2FsENS8gBNEXsAj+PAE+hPgCgthZCEJEsImIFtOImY0ze12YZGMTvM3hfnPnnJk7V0g5aePTpssLEA+Hg8kCwQmwuLK2iRQQsYsC8cKBEWABLDDYi7BNIGkdpHf3jOomSMEV94TBKUJOMrUFwHPpVkMkL8SbcPVbOLKLClGD/L7CqX9SWs6iNQR2fXxl0+n6jLVPd9DiJHqB5JFALnOVz8Ov+9iypdNq4XkeJyYHzVHKDzGcUZxTiMRHoL6ckJ7c20rBsjwAg7QoSrYCmrxZKLVCMWbKA6eLUKL6q9ZZYvdWI0GJXEwgPk6J3LIiPzHa9VCVe5zSHQODMeaUY83g/o/FHQ+pTY1eJyD2+rRf35i6CWlvLLKmDn8BQsKVY9KO3xMAAAAASUVORK5CYII=" />
-  </a>
-</div>
+Course projects using a **Yocto-based Raspberry Pi access point and NTP server** with **four ESP32-S2 Cucumber clients**, with setup and integration documentation.
 
-## 📈 Complete Activity (Public & Private)
+### Mushroom-Inspired PDMS Force Sensor
+
+Designed a capacitive sensor for pressure and shear measurement. Compared **663 simulated designs** across four design parameters using Python and supervised learning, and built a prototype with a 3D-printed mold and PCB electrodes. This earlier work informs my current move toward photonic sensing.
+
+### Passive Flood-Actuated Elevated Walkway
+
+Led the concept and mechanical design of an adaptive walkway for emergency urban mobility, in collaboration with **Science Tokyo**. Built and tested a scaled prototype and presented the work at **AIWEST-DR 2026**.
+
+## 💼 Experience
+
+| Organization | Role and contribution | Period |
+| --- | --- | --- |
+| **NV5** | Freelance Documentation Officer — technical reports and presentations for data center consulting | May 2026–Present |
+| **Digital Fabrication Center, Chulalongkorn University** | Brand Ambassador and Main Operator — SLS printing, prototyping support, machine checks, and user training | Jan 2026–Present |
+| **KAIST — MINT Lab, Prof. Inkyu Park** | Research Intern — COMSOL sensor modeling, design comparisons, molds, and PCB readout circuits | Jun–Aug 2025 |
+| **IRIS Mechatronics** | Research Intern / Part-Time Research Assistant — printer maintenance, replacement-part design, and medical-device control prototypes | Jul 2024–May 2025 |
+
+I also contributed to structural design and fabrication with the **CU High Altitude Research Club** and the **CU Rapidamente Formula Student Team**, and taught STM32, C/C++, wiring, pathfinding, and basic PID control as a **RoboRacer Club instructor**.
+
+## 📄 Research and Publications
+
+- **Mushroom-Inspired PDMS Capacitive Sensor for Multi-Dimensional Force Measurement**  
+  First author · Accepted for presentation and publication at **TSME-ICoME 2026**.
+
+- **A Passive Flood-Actuated Adaptive Elevated Walkway System for Emergency Urban Mobility: A Conceptual Design**  
+  First author · **E3S Web of Conferences, 744, 03008** · Published **28 September 2026**.
+
+## 🎓 Education and Training
+
+- **M.Eng. in Cyber-Physical Systems**, Chulalongkorn University  
+  August 2026–Expected May 2027
+- **Bachelor of Mechanical Engineering**, Chulalongkorn University  
+  August 2022–May 2026
+- **Electric Vehicle Maintenance Technician — Level 3**, TPQI  
+  Certificate of Competency · July 2026
+- **TMEC pressure sensor fabrication training**  
+  Cleanroom training in three-layer photolithography and ANSYS skills for sensor design
+
+<details>
+<summary>Earlier education</summary>
+
+<br>
+
+| Rayongwittayakom School | Mahidol Wittayanusorn School | Chulalongkorn University |
+| :---: | :---: | :---: |
+| <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0929.png" width="90" alt="Rayongwittayakom School" /> | <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0927.png" width="90" alt="Mahidol Wittayanusorn School" /> | <img src="https://github.com/NuchPunnawichP/NuchPunnawichP/raw/main/IMG_0928.png" width="90" alt="Chulalongkorn University" /> |
+
+</details>
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuchPunnawichP&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Complete GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuchPunnawichP&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NuchPunnawichP&show_icons=true&theme=radical&hide_border=true" alt="Public GitHub activity statistics" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuchPunnawichP&theme=radical" alt="GitHub contribution summary" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NuchPunnawichP&style=for-the-badge&color=58a6ff&labelColor=1e1e2e" alt="Profile Views" />
-</div>
+I'm interested in research and engineering collaborations involving **sensors, embedded systems, robotics, and practical prototyping**. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/punnawich-pongsriassawin-620426209/) or [email](mailto:Nuch.Punnawich.P@gmail.com).
