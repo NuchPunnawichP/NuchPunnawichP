@@ -18,7 +18,7 @@ I work across mechanical design, sensors, embedded systems, and engineering soft
 - **Teaching:** Supporting engineering and ROS2 courses as a teaching assistant at Chulalongkorn University.
 - **Upcoming research:** Preparing for research collaboration at **NEOL, Korea University**, with **Prof. Seokwoo Jeon** in 2027.
 
-My research interests include **soft sensors, photonic sensing, MEMS, robotics, and intelligent cyber-physical systems**.
+My research interests include **soft sensors, photonic sensing, microfabrication, MEMS, robotics, and intelligent cyber-physical systems**.
 
 ## 🛠️ Technical Toolkit
 
